@@ -22,9 +22,12 @@ Tools: Power BI
 
 Features:
 - Employee distribution by department
-- Attrition analysis
-- Education level analysis
-- Gender distribution
+- Attrition rate analysis
+- Job satisfaction by department
+- Employee tenure (years at company)
+- Education level and gender distribution
+- KPI cards for total employees, attrition rate, and average income
+- Interactive filters for data exploration
 
 Dashboard Preview:
 ![HR Dashboard](HR_Dashboard.png)
