@@ -7,17 +7,33 @@ This repository contains my data analytics dashboard projects created using Powe
 ### 1. Superstore Sales Dashboard
 Tools: Power BI, DAX
 
-Project Overview
-Developed an interactive sales analytics dashboard to monitor business performance across regions, product categories, and customer segments.
+Project Overview:
+Developed an interactive sales analytics dashboard to analyze business performance across regions, product categories, and customer segments from 2015–2018, enabling data-driven decision-making for sales strategy and planning.
 
-Key Insights & Features
+Features:
+- Analyzed overall sales performance across multiple regions to identify top-performing markets.
+- Evaluated product category performance across Technology, Furniture, and Office Supplies.
+- Tracked monthly and yearly sales trends to identify seasonality and growth patterns.
+- Designed KPI cards to monitor total sales, total orders, and total customers.
+- Built interactive filters for Region, Category, Segment, and Year & Month for dynamic analysis.
+- Implemented time-series visualizations to observe sales growth trends over time.
+- Enabled drill-down analysis for deeper business insights across dimensions.
 
-- Analyzed sales performance across multiple regions to identify top-performing markets.
-- Tracked monthly sales trends and seasonality patterns.
-- Compared profitability and revenue across product categories.
-- Designed KPI cards to monitor total sales, order volume, and customer count.
-- Implemented interactive filters and drill-through functionality for deeper analysis.
-- Enabled data-driven decision-making through real-time business performance visualization.
+Key Insights:
+- The dashboard recorded $2.26M in total sales, 9.8K orders, and 793 customers.
+- The West region emerged as the top-performing region in terms of sales.
+- The Technology category generated the highest revenue compared to Furniture and Office Supplies.
+- Sales showed a generally increasing trend from 2015 to 2018 with noticeable fluctuations.
+- All regions (West, East, Central, South) contributed significantly, with clear performance gaps.
+
+Business Value:
+- Enabled stakeholders to identify high-performing regions and optimize market strategies.
+- Supported category-level decision-making to improve revenue focus areas.
+- Provided visibility into sales trends for better forecasting and planning.
+- Helped improve data-driven business decisions through interactive dashboards.
+
+Skills Demonstrated
+Power BI | DAX | Data Visualization | Sales Analytics | KPI Reporting | Dashboard Development | Business Intelligence
 
 Dashboard Preview:
 ![Superstore Dashboard](Superstore_Dashboard.png)
@@ -25,11 +41,10 @@ Dashboard Preview:
 ### 2. HR Analytics Dashboard
 Tools: Power BI, DAX
 
-Project Overview
+Project Overview:
 Developed an HR analytics dashboard to analyze workforce demographics, employee retention, job satisfaction, and attrition trends, enabling data-driven HR decision-making.
 
-Features
-
+Features:
 - Analyzed workforce data for approximately 3,400 employees across 5 departments.
 - Evaluated employee attrition and turnover patterns, identifying 1,724 employee exits and an overall attrition rate of 50.71%.
 - Examined employee distribution by department, education level, and gender demographics.
@@ -38,8 +53,7 @@ Features
 - Designed KPI cards to monitor total employees, attrition rate, employee exits, and average monthly income.
 - Implemented interactive filters and drill-down functionality to enable detailed workforce analysis.
 
-Key Insights
-
+Key Insights:
 - The organization recorded a high attrition rate of 50.71%, indicating significant employee turnover.
 - Marketing and Sales were the largest departments, each employing 701 employees.
 - Employees with over 20 years of tenure formed the largest workforce segment (1,293 employees).
@@ -47,13 +61,12 @@ Key Insights
 - Job satisfaction scores remained relatively consistent across departments, ranging from 3.00 to 3.09.
 - Employees without overtime showed slightly higher attrition compared to employees working overtime.
 
-Business Value
-
+Business Value:
 - Enabled HR teams to identify potential retention risks through attrition analysis.
 - Supported workforce planning and talent management initiatives using employee demographic and tenure insights.
 - Provided data-driven visibility into employee satisfaction, workforce composition, and organizational trends.
 
-Skills Demonstrated
+Skills Demonstrated:
 Power BI | DAX | Data Visualization | HR Analytics | KPI Reporting | Data Analysis | Dashboard Development
 
 Dashboard Preview:
