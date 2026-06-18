@@ -16,8 +16,6 @@ Features:
 - Tracked monthly and yearly sales trends to identify seasonality and growth patterns.
 - Designed KPI cards to monitor total sales, total orders, and total customers.
 - Built interactive filters for Region, Category, Segment, and Year & Month for dynamic analysis.
-- Implemented time-series visualizations to observe sales growth trends over time.
-- Enabled drill-down analysis for deeper business insights across dimensions.
 
 Key Insights:
 - The dashboard recorded $2.26M in total sales, 9.8K orders, and 793 customers.
